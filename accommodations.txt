@@ -4,3 +4,4 @@ Single
 Double
 Master
 Storeroom
+Flat
