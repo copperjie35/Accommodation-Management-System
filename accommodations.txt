@@ -4,5 +4,6 @@ Single
 Double
 Master
 Storeroom
+Tent
 Flat
 Blocked
