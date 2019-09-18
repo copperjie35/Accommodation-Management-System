@@ -3,3 +3,4 @@ Type of accommodation:
 Single
 Double
 Master
+Storeroom
