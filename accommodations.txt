@@ -7,3 +7,4 @@ Storeroom
 Tent
 Flat
 Blocked
+Room Costs
