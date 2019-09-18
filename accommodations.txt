@@ -1,7 +1,8 @@
-Type of accommodation:
+Accommodation block:
 
 Single
 Double
 Master
 Storeroom
 Flat
+Blocked
