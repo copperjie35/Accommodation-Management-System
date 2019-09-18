@@ -6,3 +6,4 @@ Master
 Storeroom
 Flat
 Blocked
+Room Costs
